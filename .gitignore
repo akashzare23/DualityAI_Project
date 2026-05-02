@@ -1,0 +1,15 @@
+node_modules
+.env
+.DS_Store
+dist
+build
+*.log
+*.zip
+*.mp4
+*.csv
+
+Offroad_Segmentation_Training_Data
+Offroad_Segmentation_TestImages
+Color_Images
+Segmentation
+train
